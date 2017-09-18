@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatServer", "ChatServer\ChatServer.csproj", "{276A9FF8-ECAF-438D-86CE-E04DFFC84D9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHTCommon", "CHTCommon\CHTCommon.csproj", "{2BB758C5-5710-464D-9AEA-7DC877FCE68A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatClient", "ChatClient\ChatClient.csproj", "{5FA65BF4-E739-447F-808C-749DB3AA0CD8}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{276A9FF8-ECAF-438D-86CE-E04DFFC84D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{276A9FF8-ECAF-438D-86CE-E04DFFC84D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{276A9FF8-ECAF-438D-86CE-E04DFFC84D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{276A9FF8-ECAF-438D-86CE-E04DFFC84D9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BB758C5-5710-464D-9AEA-7DC877FCE68A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB758C5-5710-464D-9AEA-7DC877FCE68A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB758C5-5710-464D-9AEA-7DC877FCE68A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB758C5-5710-464D-9AEA-7DC877FCE68A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FA65BF4-E739-447F-808C-749DB3AA0CD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FA65BF4-E739-447F-808C-749DB3AA0CD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FA65BF4-E739-447F-808C-749DB3AA0CD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FA65BF4-E739-447F-808C-749DB3AA0CD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
